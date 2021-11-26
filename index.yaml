@@ -16,6 +16,6 @@ entries:
     name: pages
     type: application
     urls:
-    - pages-1.0.0.tgz
+    - https://ashim-khushboo.github.io/pages-1.0.0.tgz
     version: 1.0.0
 generated: "2021-11-26T07:17:12.525354014Z"
